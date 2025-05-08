@@ -1,4 +1,4 @@
-map_filename: /Users/ska/projects/maelir/test.png
+map_filename: map.png
 tile_size: 240
 path_finder_tile_size: 24
 land_pixel_colors:
